@@ -1,0 +1,22 @@
+* {
+    text-align: center;
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/005/176/319/small/binary-code-wavy-on-black-background-for-digital-technology-concept-background-vector.jpg');
+    color: white;
+}
+
+img {
+    height: 250px;
+    width: 500px;
+}
+
+div {
+    padding: 20px;
+}
+
+a {
+    padding: 5px;
+}
+
+h1 {
+    font-size: 70px;
+}
